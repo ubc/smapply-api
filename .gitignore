@@ -10,7 +10,6 @@ output/*.csv
 # Distribution / packaging
 .Python
 build/
-output/
 develop-eggs/
 dist/
 downloads/
